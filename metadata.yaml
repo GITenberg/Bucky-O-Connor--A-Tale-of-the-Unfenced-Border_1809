@@ -1,5 +1,8 @@
 _repo: Bucky-O-Connor--A-Tale-of-the-Unfenced-Border_1809
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Raine, William MacLeod
@@ -12,6 +15,8 @@ description: Questions of national sovereignty, immigration and cultural identit
   were as relevant in the era of the Wild West as they are today, if not more so.
   William MacLeod Raine's Bucky O'Connor broaches these tricky issues in the midst
   of a pleasing tale that unfolds in the classic Western tradition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1809#Bucky-O-Connor--A-Tale-of-the-Unfenced-Border
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-07-01'
 gutenberg_type: Text
